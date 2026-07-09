@@ -1,11 +1,13 @@
 {
   "api": {
-    "base_url": "https://replace-this.trycloudflare.com"
+    "base_url": "https://replace-this.trycloudflare.com",
+    "timeout": 30000
   },
   "app": {
     "name": "ICTReach",
     "version": "1.0.0",
     "maintenance": false,
-    "message": ""
+    "message": "",
+    "min_version": "1.0.0"
   }
 }
