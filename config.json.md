@@ -1,6 +1,7 @@
 {
   "api": {
-     "base_url": "http://192.168.1.9:8000",
+    "base_url": "https://pike-palm-shape-guy.trycloudflare.com", //production
+    "base_url": "http://192.168.1.9:8000", //local testing
     "timeout": 30000
   },
   "app": {
