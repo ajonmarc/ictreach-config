@@ -1,6 +1,6 @@
 {
   "api": {
-     "base_url": "https://ictreach-pho2026.nport.link",
+     "base_url": "https://ictreach.nport.link",
     "timeout": 30000
   },
   "app": {
