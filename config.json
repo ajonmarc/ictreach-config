@@ -1,6 +1,6 @@
 {
   "api": {
-     "base_url": "https://ictreach.nport.link",
+     "base_url": "https://mis.picto-sdn.com",
     "timeout": 30000
   },
   "app": {
